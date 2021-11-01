@@ -1,6 +1,6 @@
-##A simple blog platform, that allows registered users could CRUD their posts and view others.
+## A simple blog platform, that allows registered users could CRUD their posts and view others.
 
-###Core features
+### Core features
 - Everyone could see list of posts and check their detail
 People could register for new account and login/logout to the system
 Registered users could CRUD their posts.
